@@ -1,0 +1,26 @@
+.TextoCentrado
+{
+    text-align:center;
+}
+
+.fondo {
+    background-image: url('../img/carros-concesionario.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+.fondoRegistro {
+    background-image: url('../img/concesionario-ferrari.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+.fondoRegistroA {
+    background-image: url('../img/concesionario.jpeg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
